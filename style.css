@@ -640,4 +640,8 @@ footer{
     .input-field{
         width: 100%;
     }
+    .wrapper{
+    padding-inline: 10vw;
+    padding-right: 2rem;  
+    }
 }
